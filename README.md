@@ -55,3 +55,8 @@ PyRadiomics required an older Python version and a from-source
 compiled C extension.
 
 ## Requirements
+pyradiomics==3.0.1
+SimpleITK
+numpy
+pandas
+matplotlib
